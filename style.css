@@ -1,0 +1,36 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#bro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    height: 80%;
+    background-color: cadetblue;
+
+
+}
+#bro1 {
+    width: 110px;
+    height: 110px;
+    background-color: dimgrey;
+}
+#bro2 {
+    width: 90px;
+    height: 90px;
+    background-color: burlywood;
+}
+#bro3 {
+    width: 110px;
+    height: 110px;
+    background-color: brown;
+}
